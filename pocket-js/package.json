@@ -1,0 +1,16 @@
+{
+  "name": "dev-poral-pocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@pokt-network/pocket-js": "^0.4.0-rc",
+    "ethereumjs-tx": "^2.1.2"
+
+  }
+}
